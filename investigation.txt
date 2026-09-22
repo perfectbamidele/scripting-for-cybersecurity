@@ -1,3 +1,0 @@
-codespace
-codespaces-b2bf00
-/workspaces/scripting-for-cybersecurity

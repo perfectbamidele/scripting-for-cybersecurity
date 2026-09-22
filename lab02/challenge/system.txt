@@ -1,0 +1,3 @@
+codespaces-b2bf00
+/bin/bash
+/home/codespace
